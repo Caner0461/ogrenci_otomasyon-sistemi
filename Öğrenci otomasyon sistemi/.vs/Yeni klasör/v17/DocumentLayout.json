@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\VeriTabaniBaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciOtomasyonu\\OgrenciOtomasyonu\\VeriTabaniBaglantisi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciOtomasyonu\\OgrenciOtomasyonu\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\BussinessLogicLayer\\TblKullanicilarBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciOtomasyonu\\OgrenciOtomasyonu\\BussinessLogicLayer\\TblKullanicilarBLL.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet1.xsc||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet1.xsc||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.xss||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.xss||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\ClassDiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciOtomasyonu\\OgrenciOtomasyonu\\ClassDiagram1.cd||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.Designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "VeriTabaniBaglantisi.cs",
+              "DocumentMoniker": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\VeriTabaniBaglantisi.cs",
+              "RelativeDocumentMoniker": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\VeriTabaniBaglantisi.cs",
+              "ToolTip": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\VeriTabaniBaglantisi.cs",
+              "RelativeToolTip": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\VeriTabaniBaglantisi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:58:14.909Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\Program.cs",
+              "RelativeDocumentMoniker": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\Program.cs",
+              "ToolTip": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\Program.cs",
+              "RelativeToolTip": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:58:13.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "TblKullanicilarBLL.cs",
+              "DocumentMoniker": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\BussinessLogicLayer\\TblKullanicilarBLL.cs",
+              "RelativeDocumentMoniker": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\BussinessLogicLayer\\TblKullanicilarBLL.cs",
+              "ToolTip": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\BussinessLogicLayer\\TblKullanicilarBLL.cs",
+              "RelativeToolTip": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\BussinessLogicLayer\\TblKullanicilarBLL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:58:08.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "OgrenciOtomasyonuDataSet1.xsc",
+              "DocumentMoniker": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet1.xsc",
+              "RelativeDocumentMoniker": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet1.xsc",
+              "ToolTip": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet1.xsc",
+              "RelativeToolTip": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet1.xsc",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001612|",
+              "WhenOpened": "2025-05-15T17:58:00.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OgrenciOtomasyonuDataSet.xss",
+              "DocumentMoniker": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.xss",
+              "RelativeDocumentMoniker": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.xss",
+              "ToolTip": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.xss",
+              "RelativeToolTip": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.xss",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAYAAACNiR0NAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAANwSURBVDhPhZRPSytnFMafyUwqDQnEqMSKmXpjx7RIQhO4WhRisd1F10VcGcldtCIY0H4BQbsRP4Gu3DQKVtzUTcCQYFSqjVjQufHepBFM7sTgzCRjJzOZLoppJqn2B\u002B/iPec5z3l5/wH/w\u002BTkJF0ul78vl8sxURRLoijWmsZ7URQ3Y7FYAJqmEc0GjYRCodHZ2dnvLBbLRDqd7jg\u002BPv64UChQjRq32/2X2\u002B0Wurq63nIc9/OzhqFQ6KOpqakfent7566url91dXYhn89DLIs6XbfdDoIgoKhKZXR09FrXrZFAIGD0eDy92Wz2VaFQgM/rg8vlapYBAP64vETmbdYE4EtDc/KJXC5XK5VKtWpVQbHIIZ8voFQqged53eA4Dh\u002B4D\u002BB5HgDw7AoXFxclnuerQ0NDiEajYK9ZuFyfw9pu1enev3uHdDpdj\u002Bv2cHx8/NtwOPzj09zpdPZbrda\u002BVCqFjY0NqKoKijI2lkCSKpAkCU6nE2tra/oVdnd3f\u002BLz\u002Bb7Z39\u002BHoijIZrOgaRoejwe1Wg339/eN8v\u002BkZQ8FQcDu7i4ikQgikQgSiUSz5EVaDA0GA2w2GyiKgslkgtlsbpa8SIuh3W7HysoKBgYGEAgEEAwGmyUvQgHA8vLyT/39/Z85HA6aJEnYbDYYjUaYTCZYLBbIsoz5\u002BXnIsoxEIoFoNKozIUkSRuM/h0UBgN/v/5ogiNcsy4JlWQBAPp9HKpWCpmn1wpGREdA0XZ8DQHt7O2iahtfrLQO4JADg8PAweXJy8joej7cUAEC1WgXLslhaWoIsyzg4OKjnenp6HgcHB\u002B9pmr7KZDIRymw2WwwGgwEAvF4vwuEwAKBSqVRIkiTb2traisViPT42Nga/369omiZJkqTVarUcgMPz8/NfJiYmfqVisVjS4XB8mkwm610BYGFhYW54ePirYDD4RpcAoGnabw8PD3MzMzPlTCYjA6g8Pj7yAEC5XK4vtra2tLOzM6iqis3NTUxPTyOXy/3JMMwAy7LY3t6GIAjY29uDoijo6OgQV1dXfz86OqoKgqBrZgCA09NT3N7e4u7uDslkEqqq1gUcxyEej0OWZVxcXODm5gaFQkHb2dlpMcOTocPhAMMwYBgGfX19IIh/n7jZbK7nGIZBZ2dnY30LFACEw\u002BFnP1qPx0Osr6/rYs33sJG/AYSnjqm2fnOXAAAAAElFTkSuQmCC",
+              "WhenOpened": "2025-05-15T17:57:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ClassDiagram1.cd",
+              "DocumentMoniker": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\ClassDiagram1.cd",
+              "RelativeDocumentMoniker": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\ClassDiagram1.cd",
+              "ToolTip": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\ClassDiagram1.cd",
+              "RelativeToolTip": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\ClassDiagram1.cd",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000463|",
+              "WhenOpened": "2025-05-15T17:57:51.387Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OgrenciOtomasyonuDataSet.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.Designer.cs",
+              "RelativeDocumentMoniker": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.Designer.cs",
+              "ToolTip": "C:\\Users\\Sametcan\\Desktop\\Yeni klas\u00F6r\\OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.Designer.cs",
+              "RelativeToolTip": "OgrenciOtomasyonu\\OgrenciOtomasyonu\\OgrenciOtomasyonuDataSet.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T17:57:48.284Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
